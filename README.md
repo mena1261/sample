@@ -1,2 +1,0 @@
-# sample
-challenge 1
